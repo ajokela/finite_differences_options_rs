@@ -21,7 +21,7 @@ This repository provides a Rust library for solving the option pricing problem u
 2. Build the Python module:
 
    ```bash
-   maturin develop
+   cargo build
    ```
 
 3. Test the installation:
